@@ -22,6 +22,6 @@ This project showcases an intelligent system for automatic sentence completion u
 *Enhanced Speech-to-Text Models: Integrating more robust ASR systems to improve accuracy and speed.
 *Multilingual Support: Extending the model to support sentence completions in various languages.
 *Model Fine-tuning: Offering customizable fine-tuning options for domain-specific text generation.
-<img width="203" alt="{5F3880EF-F308-4D48-9158-4FA31552AA04}" src="https://github.com/user-attachments/assets/daa0301f-bfbc-4089-8cd2-adb60fa35ef8">
-<img width="194" alt="{3DF877DC-0FD1-41BC-A518-F467E4663CD3}" src="https://github.com/user-attachments/assets/b33457b9-fc42-4f71-a497-7baa9b964ad3">
 
+![1](https://github.com/user-attachments/assets/0feb7852-acf0-40fd-b017-6ccfc5bc2d73)
+![2](https://github.com/user-attachments/assets/958dc797-7659-4c80-a5db-e5e4c40c54cf)
